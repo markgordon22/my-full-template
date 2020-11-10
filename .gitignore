@@ -5,3 +5,5 @@ env.py
 __pycache__/
 *.py[cod]
 sparky.txt
+password.txt
+hello.txt
